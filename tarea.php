@@ -49,10 +49,12 @@ and open the template in the editor.
 
 
                     <!-- Send button -->
-                    <button class="btn btn-info btn-block" type="submit">Crear</button>
-
+                    <button class="btn btn-info btn-block mb-4" type="submit">Crear</button>
+                    
+                     <p><a href="index.php">Ahora no</a></p>
+                   
                 </form>
-        
+                    
             </div>
 <!-- Default form contact -->
         
